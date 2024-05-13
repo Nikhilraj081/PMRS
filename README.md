@@ -4,5 +4,7 @@ Welcome to the Medical Record Management System! This project aims to revolution
 
 ## Technologies Used:
 Backend: Java, jakarta
+
 Frontend: Html, Css, JavaScript
+
 DataBase: MYSQL
